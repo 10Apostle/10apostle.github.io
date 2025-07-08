@@ -1,10 +1,14 @@
+
+
 # Alagbada Olorunfemi.P
 ### TECH GURU
 
 
-## PRIMARY SCHOOL: 
-L.E.A primary school Aduja
+**PRIMARY SCHOOL**: L.E.A primary school Aduja
 
+**SECONDARY SCHOOL**: Ado grammer school Ado-Ekiti,Ekiti State 2011-2014.
+
+**UNIVERSITY**: Studied computer science at Afe Babalola University, Ado-Ekiti.
 
 ## WORK EXPERIENCE 
 1. IT Support Assistant – 2016 – 2017 
