@@ -1,5 +1,3 @@
-
-
 # Alagbada Olorunfemi.P
 ### TECH GURU
 
